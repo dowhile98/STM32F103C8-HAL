@@ -1,0 +1,8 @@
+main.c:25:5:main	8	static
+main.c:63:6:SystemClock_Config	72	static
+main.c:89:6:UART1_init	8	static
+main.c:105:5:__io_putchar	24	static
+main.c:113:6:TIM2_Init	40	static
+main.c:143:6:HAL_TIM_OC_DelayElapsedCallback	16	static
+main.c:165:10:computePulse	16	static
+main.c:173:6:Error_Handler	32	static

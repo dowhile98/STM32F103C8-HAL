@@ -1,0 +1,7 @@
+main.c:21:5:main	16	static
+main.c:45:6:SystemClock_Config	72	static
+main.c:75:6:UART2_Init	8	static
+main.c:90:6:receiveData_IT	24	static
+main.c:109:9:upper	16	static
+main.c:132:6:GPIOA_Init	24	static
+main.c:143:6:Error_Handler	4	static
